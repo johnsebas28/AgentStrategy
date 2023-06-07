@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SistemaAgentes/bin/Debug/net6.0
+/SistemaAgentes/obj
+/SistemaAgentes.Core/bin/Debug/net6.0
+/SistemaAgentes.Core/obj
+/UnitTestSistemaAgentes/obj
+/UnitTestSistemaAgentes.test/bin/Debug/net6.0
+/UnitTestSistemaAgentes.test/obj
+/.vs/SistemaAgentes
